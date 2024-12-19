@@ -152,3 +152,5 @@ certs/
 *.log.*
 
 .vscode/
+
+auth.ini
